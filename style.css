@@ -1,0 +1,24 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+.bg-info {
+    margin: 0;
+    padding: 10px;
+}
+#footer {
+    bottom: 0;
+    position: fixed;
+    background-color:lightsteelblue;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 0;
+}
+canvas {
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px white;
+    margin-top: 100px;
+}
